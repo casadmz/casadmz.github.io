@@ -1,4 +1,11 @@
 /********** common setting **********/
+.collission {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color:white;
+    border-radius: .3rem;
+    margin-bottom: 0 !important;
+}
 h2 {
     font-size: 2.8rem !important;
     font-weight: 700;
